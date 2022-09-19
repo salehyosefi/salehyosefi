@@ -7,13 +7,11 @@
 <h3 align="center">A passionate Backend developer from Iran</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehyosefi&label=Profile%20views&color=0e75b6&style=flat" alt="salehyosefi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/salehyosefi](https://github.com/salehyosefi)
-
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **SalehYousefi.Backend@gmail.com**
 
-- 📄 Know about my experiences [http://rozup.ir/download/3542654/MyResume-280[www.cvbuilder.me]634.pdf](http://rozup.ir/download/3542654/MyResume-280[www.cvbuilder.me]634.pdf)
+- 📄 Know about my experiences [Click](https://cvbuilder.me/Resume/fa/ae8186b3-e3ec-40fb-888a-0d5cf9cc27b6?template=template25)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
